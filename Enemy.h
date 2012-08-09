@@ -1,5 +1,6 @@
 /*
  * Enemy.h
+twtg
  *
  *  Created on: Dec 27, 2010
  *      Author: bryan
@@ -11,6 +12,7 @@
 class Enemy {
 public:
 	Enemy();
+
 	virtual ~Enemy();
 };
 
